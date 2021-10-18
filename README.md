@@ -1,6 +1,8 @@
-# Hello
+# Hello 👻
 
 I run [Ultimate Machine](https://ultimatemachine.se/) with the goal of launching fun/useful software projects as a solo bootstrapped founder.
+
+![Ultimate Machine](https://pbs.twimg.com/profile_banners/14389639/1630577326/1500x500)
 
 ## The Present
 
