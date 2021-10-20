@@ -4,6 +4,13 @@ I run [Ultimate Machine](https://ultimatemachine.se/) with the goal of launching
 
 ![Ultimate Machine](https://pbs.twimg.com/profile_banners/14389639/1630577326/1500x500)
 
+## The Past
+
+- **Remente** - 2014-2020 - CTO building the World's #1 platform for personal development.
+- **Chalmers University of Technology** - 2011-2013 - Master of Science (M.Sc.)
+- **Chalmers University of Technology** - 2007-2010 - Bachelor of Science (B.Sc.)
+- **Asthena** - 2003-2014 - Freelance Software Engineer/Web/Design for 10 years.
+
 ## The Present
 
 - **Podopi** - An app that uses your blog as a blueprint to [create a podcast on your behalf](https://www.podopi.com).
@@ -11,9 +18,6 @@ I run [Ultimate Machine](https://ultimatemachine.se/) with the goal of launching
 - **TAYL - Talk at You Later** - An app that turns any webpage, article, blog post or [text to podcast](https://www.tayl.app).
   - https://www.tayl.app
 
-## The Past
+## The Future
 
-- **Remente** - 2014-2020 - CTO building the World's #1 platform for personal development.
-- **Chalmers University of Technology** - 2011-2013 - Master of Science (M.Sc.)
-- **Chalmers University of Technology** - 2007-2010 - Bachelor of Science (B.Sc.)
-- **Asthena** - 2003-2014 - Freelance Software Engineer/Web/Design for 10 years.
+You tell me!
