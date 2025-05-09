@@ -1,6 +1,6 @@
 # Hello 👻
 
-I run [Ultimate Machine](https://ultimatemachine.se/) with the goal of launching fun/useful software projects as a solo bootstrapped founder.
+I run [Ultimate Machine](https://ultimatemachine.se/), where I’m on a mission to launch fun and useful software projects as a solo, bootstrapped founder.
 
 ![Ultimate Machine](https://pbs.twimg.com/profile_banners/14389639/1630577326/1500x500)
 
@@ -24,6 +24,8 @@ I run [Ultimate Machine](https://ultimatemachine.se/) with the goal of launching
 
 - **Product & Engineering at Waitwhile**
   - https://www.waitwhile.com
+- **Vortex PDF** - A SaaS that makes creating pretty PDFs less annoying.
+  - https://vortexpdf.com
 - **Partly AI** - An app that uses AI to create personalized artworks from profile photos.
   - https://www.partly.ai
 - **Podopi** - An app that uses your blog as a blueprint to [create a podcast on your behalf](https://www.podopi.com).
