@@ -20,7 +20,7 @@ I run [Ultimate Machine](https://ultimatemachine.se/), where I’m on a mission 
 - **Chalmers University of Technology** - 2007-2010 - Bachelor of Science (B.Sc.)
 - **Asthena** - 2003-2014 - Freelance Software Engineer/Web/Design for 10 years.
 
-## 🧑‍💻 The Present
+## 🧘 The Present
 
 - **Product & Engineering at Waitwhile**
   - https://www.waitwhile.com
