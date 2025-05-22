@@ -16,15 +16,15 @@ I run [Ultimate Machine](https://ultimatemachine.se/), where I’m on a mission 
 ## 🧘 The Present
 
 - **Product & Engineering at Waitwhile**
-  - https://www.waitwhile.com
+  - https://waitwhile.com
 - **Vortex PDF** - A SaaS that makes creating pretty PDFs less annoying.
   - https://vortexpdf.com
 - **Partly AI** - An app that uses AI to create personalized artworks from profile photos.
-  - https://www.partly.ai
+  - https://partly.ai
 - **Podopi** - An app that uses your blog as a blueprint to [create a podcast on your behalf](https://www.podopi.com).
-  - https://www.podopi.com
+  - https://podopi.com
 - **TAYL - Talk at You Later** - An app that turns any webpage, article, blog post or [text to podcast](https://www.tayl.app).
-  - https://www.tayl.app
+  - https://tayl.app
 
 ## 🙏 The Past
 
