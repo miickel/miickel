@@ -13,13 +13,6 @@ I run [Ultimate Machine](https://ultimatemachine.se/), where I’m on a mission 
 - [An Indie Hacker’s Learnings From Launching a B2C SaaS Company](https://ultimatemachine.se/articles/an-indie-hackers-learnings-from-launching-a-b2c-saas-company/)
 <!-- BLOG-POST-LIST:END -->
 
-## 🙏 The Past
-
-- **Remente** - 2014-2020 - CTO building the World's #1 platform for personal development.
-- **Chalmers University of Technology** - 2011-2013 - Master of Science (M.Sc.)
-- **Chalmers University of Technology** - 2007-2010 - Bachelor of Science (B.Sc.)
-- **Asthena** - 2003-2014 - Freelance Software Engineer/Web/Design for 10 years.
-
 ## 🧘 The Present
 
 - **Product & Engineering at Waitwhile**
@@ -32,3 +25,10 @@ I run [Ultimate Machine](https://ultimatemachine.se/), where I’m on a mission 
   - https://www.podopi.com
 - **TAYL - Talk at You Later** - An app that turns any webpage, article, blog post or [text to podcast](https://www.tayl.app).
   - https://www.tayl.app
+
+## 🙏 The Past
+
+- **Remente** - 2014-2020 - CTO building the World's #1 platform for personal development.
+- **Chalmers University of Technology** - 2011-2013 - Master of Science (M.Sc.)
+- **Chalmers University of Technology** - 2007-2010 - Bachelor of Science (B.Sc.)
+- **Asthena** - 2003-2014 - Freelance Software Engineer/Web/Design for 10 years.
