@@ -1,7 +1,5 @@
 # Hello 👻
 
-I run [Ultimate Machine](https://ultimatemachine.se/), where I’m on a mission to launch fun and useful software projects as a solo, bootstrapped founder.
-
 ![Ultimate Machine](https://pbs.twimg.com/profile_banners/14389639/1630577326/1500x500)
 
 ## ✍️ Latest Blog Posts
