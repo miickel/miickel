@@ -1,5 +1,3 @@
-# Hello 👻
-
 [![Ultimate Machine](https://pbs.twimg.com/profile_banners/14389639/1756903190/1500x500)](https://ultimatemachine.se)
 
 ## ✍️ Latest Blog Posts
