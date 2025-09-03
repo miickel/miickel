@@ -2,11 +2,11 @@
 
 ## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Four Years, 1432 Runs, Countless Lessons](https://ultimatemachine.se/articles/four-years-1432-runs-countless-lessons/)
+- [How AI is Changing the Way I Build Software](https://ultimatemachine.se/articles/how-ai-is-changing-the-way-i-build-software/)
+- [I’m joining Waitwhile](https://ultimatemachine.se/articles/im-joining-waitwhile/)
+- [Welcome to the world, Juni](https://ultimatemachine.se/articles/welcome-to-the-world-juni/)
 - [730 Days of Running Every Day](https://ultimatemachine.se/articles/730-days-of-running-every-day/)
-- [Learning Elixir and Building a SaaS with Phoenix Framework](https://ultimatemachine.se/articles/learning-elixir-and-building-a-saas-with-phoenix-framework/)
-- [365 Days of Running Every Day](https://ultimatemachine.se/articles/365-days-of-running-every-day/)
-- [Quitting Refined Sugars for a Year](https://ultimatemachine.se/articles/quitting-refined-sugars-for-a-year/)
-- [An Indie Hacker’s Learnings From Launching a B2C SaaS Company](https://ultimatemachine.se/articles/an-indie-hackers-learnings-from-launching-a-b2c-saas-company/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🧘 The Present
