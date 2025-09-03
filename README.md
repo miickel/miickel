@@ -17,9 +17,9 @@
   - https://vortexpdf.com
 - **Partly AI** - An app that uses AI to create personalized artworks from profile photos.
   - https://partly.ai
-- **Podopi** - An app that uses your blog as a blueprint to [create a podcast on your behalf](https://www.podopi.com).
+- **Podopi** - An app that uses your blog as a blueprint to create a podcast on your behalf.
   - https://podopi.com
-- **TAYL - Talk at You Later** - An app that turns any webpage, article, blog post or [text to podcast](https://www.tayl.app).
+- **TAYL - Talk at You Later** - An app that turns any webpage, article, blog post or text to podcast.
   - https://tayl.app
 
 ## 🙏 The Past
