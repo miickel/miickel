@@ -13,6 +13,8 @@
 
 - **Product & Engineering at Waitwhile**
   - https://waitwhile.com
+- **Revel Camera** - A disposable camera app for events and parties.
+  - https://revel.cam
 - **Vortex PDF** - A SaaS that makes creating pretty PDFs less annoying.
   - https://vortexpdf.com
 - **Partly AI** - An app that uses AI to create personalized artworks from profile photos.
