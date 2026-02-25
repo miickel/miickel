@@ -1,4 +1,4 @@
-[![Ultimate Machine](https://pbs.twimg.com/profile_banners/14389639/1756903190/1500x500)](https://ultimatemachine.se)
+[![Ultimate Machine](https://pbs.twimg.com/profile_banners/14389639/1767562492/1500x500)](https://ultimatemachine.se)
 
 ## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
