@@ -1,5 +1,3 @@
-[![Ultimate Machine](https://pbs.twimg.com/profile_banners/14389639/1767562492/1500x500)](https://ultimatemachine.se)
-
 ## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Four Years, 1432 Runs, Countless Lessons](https://ultimatemachine.se/articles/four-years-1432-runs-countless-lessons/)
